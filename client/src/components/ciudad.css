@@ -1,0 +1,18 @@
+.CiudadCard {
+    background-color: #aaf5aa; /* Fondo de color verde pastel */
+    padding: 10px;
+    height: 50px;
+    border-radius: 70px;
+    margin-bottom: 3px;
+    width: 450px;
+    border: 3px solid #2c2c2c; /* Borde negro de 3px */
+  }
+  
+  .tituloCiudad {
+    font-size: 26px;
+  }
+  
+  .CiudadCard h2 {
+    color: #000000; /* Color de texto negro */
+    margin-top: 4px;
+  }
